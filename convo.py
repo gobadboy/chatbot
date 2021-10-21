@@ -69,7 +69,6 @@ while (flag == True):
     user_response = input()
     user_response = user_response.lower()
     if (user_response != 'bye'):
-        user_response = input("")
 
         if user_response == 'Cyber crime awareness':
             print(
