@@ -70,7 +70,7 @@ while (flag == True):
          if (user_response == 'thanks' or user_response == 'thank you' or user_response== 'end'):
             flag = False
             print("ROBO: You are welcome..")
-            else:
+         else:
             if (greeting(user_response) != None):
                 print("ROBO: " + greeting(user_response))
             else:
