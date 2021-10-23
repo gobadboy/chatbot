@@ -1,7 +1,5 @@
 
 
-warnings.filterwarnings('ignore')
-
 import nltk
 from nltk.stem import WordNetLemmatizer
 
